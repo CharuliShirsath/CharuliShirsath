@@ -1,26 +1,32 @@
 [![MasterHead](https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif)](https://CharuliShirsath.io)
 
-
 <h1 align="center">Hi 👋, I'm CharuliShirsath</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/marocena26/marocena26/blob/main/README.md">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 
 
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=charulishirsath&label=Profile%20views&color=0e75b6&style=flat" alt="charulishirsath" /> </p>
 
 - 🔭 I’m currently working on **Standalone Single-Page E-commerce Application with React and Spring Boot**
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Core java, J2EE, Spring Boot, HTML, CSS**
+- 🤝 I’m looking for help with **GeeksForGeeks**
+
+- 👨‍💻 All of my projects are available at [file:///C:/Users/charu/OneDrive/Desktop/All%20Asignments/Bootstrap%20Website/Personal/index.html](file:///C:/Users/charu/OneDrive/Desktop/All%20Asignments/Bootstrap%20Website/Personal/index.html)
+
+- 💬 Ask me about **J2EE, Spring mvc, Spring Boot, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **shirsathcharuli2020@gmail.com**
+
+- 📄 Know about my experiences [file:///C:/Users/charu/OneDrive/Desktop/Interview%20preparation/Resume/ShirsathCharuli_resume.pdf](file:///C:/Users/charu/OneDrive/Desktop/Interview%20preparation/Resume/ShirsathCharuli_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/charuli shirsath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charuli shirsath" height="30" width="40" /></a>
+<a href="https://instagram.com/charuli shirsath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="charuli shirsath" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shirsathcharuli1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shirsathcharuli1" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/shirsathcharuli1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shirsathcharuli1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,3 +1,4 @@
+[![MasterHead](https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif)](https://CharuliShirsath.io)
 
 
 <h1 align="center">Hi 👋, I'm CharuliShirsath</h1>

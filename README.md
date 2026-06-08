@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="YOUR_BANNER_URL" alt="Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Charuli Shirsath</h1>
 
 <h3 align="center">

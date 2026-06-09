@@ -20,23 +20,30 @@ Spring Boot, React, Microservices, and Cloud technologies.
 ## 👩‍💻 About Me
 <img align="right" alt="Coding" width="400" src="https://github.com/CharuliShirsath/github-profile-assets/blob/master/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3939312f3939392f6f726967696e616c2f616e6e612d68617672796c79756b682d2e6769663f31353936313235313.gif">
 
-- 🔭 Currently working on **Standalone E-Commerce Application using React & Spring Boot**
+💼 Java Full Stack Developer with **1.9+ years of experience** in enterprise application development.
 
-- 🌱 Learning **Advanced React, Microservices, Docker & Kubernetes**
+🚀 Currently working on **ICMS (Incentive Compensation Management System)** and leading the migration of a legacy monolithic application to a **Microservices Architecture**, while modernizing the frontend using **React**.
 
-- 💼 Experienced in **Java Full Stack Development**
+🔹 Expertise in:
 
-- 💬 Ask me about:
-  - Java
-  - Spring Boot
-  - Spring MVC
-  - REST APIs
-  - React
-  - MySQL
-  - JavaScript
+* Java, Spring Boot, Spring MVC
+* REST APIs & API Integrations
+* React, JSP, JavaScript, HTML, CSS
+* Oracle Database 11g
+* Batch Processing & Enterprise Applications
 
-- 📫 Reach me at:
-  **shirsathcharuli2020@gmail.com**
+🔹 Key Contributions:
+
+* Integrated OIA APIs with OAuth-based authentication.
+* Developed an OCI-powered AI Chatbot.
+* Built dashboards with charts, pagination, and analytics.
+* Designed and consumed secure REST APIs.
+* Worked on Project Management and QPOT applications.
+
+🌱 Exploring Cloud, Docker, Kubernetes, and Advanced Microservices.
+
+📫 **[shirsathcharuli2020@gmail.com](mailto:shirsathcharuli2020@gmail.com)**
+
 
 ---
 
@@ -95,22 +102,17 @@ Spring Boot, React, Microservices, and Cloud technologies.
 
 ## 🎯 Current Focus
 
-✔ Enterprise Application Development
+✔ Modernizing Legacy Monolithic Applications into Microservices Architecture
 
-✔ Spring Boot Microservices
+✔ React-based Frontend Development and UI Modernization
 
-✔ React Frontend Development
+✔ API Integrations, OAuth Authentication & Secure Communication
 
-✔ REST API Design
-
-✔ Docker & Kubernetes
-
-✔ Cloud Deployment
+✔ Docker, Kubernetes & Cloud-Native Development
 
 ---
 
-## 💡 Quote
+## 💡 Developer Mindset
 
-> "First, solve the problem. Then, write the code."
->
-> — John Johnson
+> "The more familiar you become with errors and bugs, the smoother your development journey becomes."
+

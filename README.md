@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_URL" alt="Banner" width="100%">
+  <img src="https://github.com/CharuliShirsath/github-profile-assets.git" alt="Banner" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Charuli Shirsath</h1>
 

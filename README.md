@@ -14,7 +14,7 @@ Building scalable web applications with Java, Spring Boot, React, and modern clo
 ---
 
 ## 🚀 About Me
-
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 💼 Java Full Stack Developer
 - 🌱 Currently learning **Advanced JavaScript & React**
 - 🔭 Working on **E-Commerce Application (React + Spring Boot)**

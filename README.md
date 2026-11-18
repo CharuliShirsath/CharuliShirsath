@@ -20,7 +20,7 @@ Spring Boot, React, Microservices, and Cloud technologies.
 ## 👩‍💻 About Me
 <img align="right" alt="Coding" width="400" src="https://github.com/CharuliShirsath/github-profile-assets/blob/master/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3939312f3939392f6f726967696e616c2f616e6e612d68617672796c79756b682d2e6769663f31353936313235313.gif">
 
-💼 Java Full Stack Developer with **1.9+ years of experience** in enterprise application development.
+💼 Java Full Stack Developer with **2+ years of experience** in enterprise application development.
 
 🚀 Currently working on **ICMS (Incentive Compensation Management System)** and leading the migration of a legacy monolithic application to a **Microservices Architecture**, while modernizing the frontend using **React**.
 

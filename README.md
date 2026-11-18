@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Charuli Shirsath</h1>
 
 <h3 align="center">
-Java Full Stack Developer | Spring Boot | React | REST APIs
+Java Full Stack Developer | Spring Boot | React Js | REST APIs
 </h3>
 
 <p align="center">
